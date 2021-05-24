@@ -1,4 +1,4 @@
-const assert = require('assert');
+import assert from 'assert';
 import Book from '../book';
 
 describe('Book', function () {

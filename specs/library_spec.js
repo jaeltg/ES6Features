@@ -1,4 +1,4 @@
-const assert = require('assert');
+import assert from 'assert';
 import Library from '../library';
 import Book from '../book';
 
